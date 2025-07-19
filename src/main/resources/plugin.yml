@@ -1,0 +1,4 @@
+name: HandyGUI
+version: '1.0-SNAPSHOT'
+main: org.handyGUI.HandyGUI
+api-version: '1.21'
